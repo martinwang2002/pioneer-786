@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/aosc/OpenFTC-app-turbo/OpenFTC/src/main/assets"/><source path="/home/aosc/OpenFTC-app-turbo/OpenFTC/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/aosc/OpenFTC-app-turbo/OpenFTC/src/release/assets"/></dataSet></merger>

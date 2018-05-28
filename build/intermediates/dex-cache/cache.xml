@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/RobotCore/build/intermediates/bundles/default/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_c918247d20213f28b83001252c9d99ba181648fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/Hardware/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bfc8f1105ccb8aab035f8b903dd287019aebb69">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/classes_f0092b99123ef5e17282dc0e9e60fe80b392e559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/RobotCore/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af6e232fc6bcad6e3f9d6c8a11e17f0ab39ff086">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/classes_92c337ace52ac6003d7b56a797c405c9186a4c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/Inspection/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="599384608ff6e1c192e60db51316932da65a81ce">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/classes_acab32699e0211f3bfa59ec70006a2661704fbd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="164989397415813f945bb334741ab0b5df2b6342">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/classes_d6087c3eac36a7c1e05c11d0337b65ce064352a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/.android/build-cache/3017cb5a9d3b5499a4082ef9a59a956595bd5ee7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/classes_d23cd5c5a8b6427938bd5ee0d60cff63627e03ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/RobotCore/build/intermediates/bundles/default/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_168a0356bf7185e0550f013cde343318e3e2014a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/RobotCore/build/intermediates/bundles/default/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_b296d2c2bb5b40123371503617c5022173340c2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/FtcCommon/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3279a4bb2f28ed3487e1f723bdaf26f712f21e30">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/classes_5ee988b64d081657045a7e2d96068ee3ae319ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/OpenFTC/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6fbcf1812026e298aec1b1fc3eb20dc0e8c508e7">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/classes_9ffe192be6934f3a35067f3d66b9b70151692501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aosc/OpenFTC-app-turbo/RobotCore/build/intermediates/bundles/default/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/home/aosc/OpenFTC-app-turbo/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_a1365511a84f97e6d3889f6c776ab58f11d8a14b.jar" />
+    </item>
+
+</items>

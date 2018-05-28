@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\marti\Desktop\FTC\FtcRobotController\src\main\shaders"/></dataSet><dataSet config="openrc"><source path="C:\Users\marti\Desktop\FTC\FtcRobotController\src\openrc\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\marti\Desktop\FTC\FtcRobotController\src\debug\shaders"/></dataSet><dataSet config="openrcDebug"><source path="C:\Users\marti\Desktop\FTC\FtcRobotController\src\openrcDebug\shaders"/></dataSet></merger>

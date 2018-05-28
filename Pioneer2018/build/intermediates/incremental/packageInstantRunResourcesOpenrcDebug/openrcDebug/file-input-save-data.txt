@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sat May 05 13:05:36 CST 2018
+2.base=C\:\\Users\\marti\\Desktop\\FTC\\Pioneer2018\\build\\intermediates\\assets\\openrc\\debug
+5.set=ASSET
+0.path=RelicVuMark.dat
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\marti\\Desktop\\FTC\\Pioneer2018\\build\\intermediates\\assets\\openrc\\debug
+2.set=ASSET
+1.path=RelicVuMark.xml
+4.base=C\:\\Users\\marti\\Desktop\\FTC\\Pioneer2018\\build\\intermediates\\assets\\openrc\\debug
+count=6
+5.baseType=DIRECTORY
+2.path=RobotConfig.xsd
+5.base=C\:\\Users\\marti\\Desktop\\FTC\\Pioneer2018\\build\\intermediates\\assets\\openrc\\debug
+4.set=ASSET
+3.path=RobotConfigDescriptionGenerate.xslt
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=RobotConfigTaxonomy.xml
+1.baseType=DIRECTORY
+5.path=RobotConfigTaxonomy.xsd
+0.base=C\:\\Users\\marti\\Desktop\\FTC\\Pioneer2018\\build\\intermediates\\assets\\openrc\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\marti\\Desktop\\FTC\\Pioneer2018\\build\\intermediates\\assets\\openrc\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
