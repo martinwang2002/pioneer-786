@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\marti\\Desktop\\FTC\\Pioneer2018\\build\\intermediates\\incremental\\mergeOpenrcDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "C:\\Users\\marti\\Documents\\GitHub\\pioneer-786\\Pioneer2018\\build\\intermediates\\incremental\\mergeOpenrcDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\marti\\Desktop\\FTC\\RobotCore\\build\\intermediates\\packaged_res\\debug\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\marti\\Documents\\GitHub\\pioneer-786\\RobotCore\\build\\intermediates\\packaged_res\\debug\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

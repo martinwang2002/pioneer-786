@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\marti\\Desktop\\FTC\\Pioneer2018\\build\\intermediates\\incremental\\mergeOpenrcDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "outputFile": "C:\\Users\\marti\\Documents\\GitHub\\pioneer-786\\Pioneer2018\\build\\intermediates\\incremental\\mergeOpenrcDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\marti\\Desktop\\FTC\\FtcRobotController\\build\\intermediates\\packaged_res\\openrc\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "source": "C:\\Users\\marti\\Documents\\GitHub\\pioneer-786\\FtcRobotController\\build\\intermediates\\packaged_res\\openrc\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

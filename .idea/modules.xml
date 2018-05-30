@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FTC.iml" filepath="$PROJECT_DIR$/FTC.iml" />
       <module fileurl="file://$PROJECT_DIR$/FtcCommon/FtcCommon.iml" filepath="$PROJECT_DIR$/FtcCommon/FtcCommon.iml" />
       <module fileurl="file://$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hardware/Hardware.iml" filepath="$PROJECT_DIR$/Hardware/Hardware.iml" />
@@ -11,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Pioneer2018/Pioneer2018.iml" filepath="$PROJECT_DIR$/Pioneer2018/Pioneer2018.iml" />
       <module fileurl="file://$PROJECT_DIR$/RobotCore/RobotCore.iml" filepath="$PROJECT_DIR$/RobotCore/RobotCore.iml" />
       <module fileurl="file://$PROJECT_DIR$/Turbo/Turbo.iml" filepath="$PROJECT_DIR$/Turbo/Turbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pioneer-786.iml" filepath="$PROJECT_DIR$/pioneer-786.iml" />
     </modules>
   </component>
 </project>

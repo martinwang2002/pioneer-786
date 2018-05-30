@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: Analytics-release:@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Analytics-release.aar/e7b92a3e0e895931efe16dbb84622428/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Analytics-release.aar/e7b92a3e0e895931efe16dbb84622428/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Analytics-release.aar/1eaccc1e44f48b54d04b5103a0a8f381/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Analytics-release.aar/1eaccc1e44f48b54d04b5103a0a8f381/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

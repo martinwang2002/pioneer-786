@@ -1,0 +1,4 @@
+#Tue May 29 16:35:20 CST 2018
+base.0=C\:\\Users\\marti\\Documents\\GitHub\\pioneer-786\\Pioneer2018\\build\\intermediates\\transforms\\dexMerger\\openrc\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
